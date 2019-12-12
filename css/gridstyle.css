@@ -84,71 +84,71 @@ h1 {
 }
 
 li.images:nth-of-type(1) {
-  background-image: url("gridimages/AmboseliNationalPark.jpg");
+  background-image: url("../gridimages/AmboseliNationalPark.jpg");
 }
 
 li.images:nth-of-type(2) {
-  background-image: url("gridimages/CapePointSA.jpg");
+  background-image: url("../gridimages/CapePointSA.jpg");
 }
 
 li.images:nth-of-type(3) {
-  background-image: url("gridimages/SaharaDesertMorocco.jpg");
+  background-image: url("../gridimages/SaharaDesertMorocco.jpg");
 }
 
 li.images:nth-of-type(4) {
-  background-image: url("gridimages/muizenberg.jpg");
+  background-image: url("../gridimages/muizenberg.jpg");
 }
 
 li.images:nth-of-type(5) {
-  background-image: url("gridimages/CampKipweNamibia.jpg");
+  background-image: url("../gridimages/CampKipweNamibia.jpg");
 }
 
 li.images:nth-of-type(6) {
-  background-image: url("gridimages/KenyaSunset.jpg");
+  background-image: url("../gridimages/KenyaSunset.jpg");
 }
 
 li.images:nth-of-type(7) {
-  background-image: url("gridimages/TsavoNationalPark.jpg");
+  background-image: url("../gridimages/TsavoNationalPark.jpg");
 }
 
 li.images:nth-of-type(8) {
-  background-image: url("gridimages/south-africa.jpg");
+  background-image: url("../gridimages/south-africa.jpg");
 }
 
 li.images:nth-of-type(9) {
-  background-image: url("gridimages/Giraffe.jpg");
+  background-image: url("../gridimages/Giraffe.jpg");
 }
 
 li.images:nth-of-type(10) {
-  background-image: url("gridimages/VictoriaFalls.jpg");
+  background-image: url("../gridimages/VictoriaFalls.jpg");
 }
 
 li.images:nth-of-type(11) {
-  background-image: url("gridimages/DuikerIslandSouthAfrica.jpg");
+  background-image: url("../gridimages/DuikerIslandSouthAfrica.jpg");
 }
 
 li.images:nth-of-type(12) {
-  background-image: url("gridimages/morocco.jpg");
+  background-image: url("../gridimages/morocco.jpg");
 }
 
 li.images:nth-of-type(13) {
-  background-image: url("gridimages/NamibiaDesert.jpg");
+  background-image: url("../gridimages/NamibiaDesert.jpg");
 }
 
 li.images:nth-of-type(14) {
-  background-image: url("gridimages/kilimanjaro.jpg");
+  background-image: url("../gridimages/kilimanjaro.jpg");
 }
 
 li.images:nth-of-type(15) {
-  background-image: url("gridimages/RichtersveldSA.jpg");
+  background-image: url("../gridimages/RichtersveldSA.jpg");
 }
 
 li.images:nth-of-type(16) {
-  background-image: url("gridimages/NamibiaCoast.jpg");
+  background-image: url("../gridimages/NamibiaCoast.jpg");
 }
 
 li.images:nth-of-type(17) {
-  background-image: url("gridimages/IbnTulunMosqueCairo.jpg");
+  background-image: url("../gridimages/IbnTulunMosqueCairo.jpg");
 }
 
 ul, li.images {
